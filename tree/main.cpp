@@ -23,10 +23,11 @@ int main()
     root->left->left->right = tree.create_node(11);
     
     /*
-              5
-          10     15
-        12  17  21 24
+                5
+          10         15
+       12    17   21    24
       9  11
+     
      */
     
     cout << "Preorder: ";
@@ -39,6 +40,18 @@ int main()
     
     cout << "Postorder: ";
     tree.postorder(root);
+    cout << endl;
+    
+    cout << "Reverse Preorder: ";
+    tree.reverse_preorder(root);
+    cout << endl;
+    
+    cout << "Reverse Inorder: ";
+    tree.reverse_inorder(root);
+    cout << endl;
+    
+    cout << "Reverse Postorder: ";
+    tree.reverse_postorder(root);
     cout << endl;
     
     

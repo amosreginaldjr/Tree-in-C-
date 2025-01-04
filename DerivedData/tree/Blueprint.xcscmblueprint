@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2703F92DC2E0EFB9FBCDCAB380FA0E31B5B26429",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2703F92DC2E0EFB9FBCDCAB380FA0E31B5B26429" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "290A99C2-E637-4611-8E13-9A3A939B1505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2703F92DC2E0EFB9FBCDCAB380FA0E31B5B26429" : "tree\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tree",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tree.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/amosreginaldjr\/Tree-in-C-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2703F92DC2E0EFB9FBCDCAB380FA0E31B5B26429"
+    }
+  ]
+}
