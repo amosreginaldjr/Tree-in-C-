@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "6ecfcd3cf9ae038092029431819765b5ceaf0b76acc83a0e310baea5464f8901"
+    }
+  ],
+  "containerPath" : "/Users/amosreginald/Documents/Xcode/tree/tree.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/amosreginald/Documents/Xcode/tree/DerivedData/tree/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/amosreginald/Documents/Xcode/tree/DerivedData/tree/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/amosreginald/Documents/Xcode/tree/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/amosreginald/Documents/Xcode/tree/DerivedData/tree/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/amosreginald/Documents/Xcode/tree/DerivedData/tree/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/amosreginald/Documents/Xcode/tree/DerivedData/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/amosreginald/Documents/Xcode/tree/DerivedData/Build/Products",
+      "pchPath" : "/Users/amosreginald/Documents/Xcode/tree/DerivedData/tree/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
